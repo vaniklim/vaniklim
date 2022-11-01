@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄Hi all! I'm glad to see you on my public profile page!😄
+
+<table><tr><td valign="top" width="50%">
+
+**📑 My study projects**
+
+💬 These projects were carried out within the framework of the RSSchool and courses 0 to 1 💬
+
+* [Online Zoo](https://rolling-scopes-school.github.io/vaniklim-JSFE2022Q3/online-zoo/pages/main/)
+* [Clean Code]( https://vaniklim.github.io/clean-code-s1e1/)
+* [My CV]( https://vaniklim.github.io/rsschool-cv/)
+
+</td></tr></table>
